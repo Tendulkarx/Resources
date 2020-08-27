@@ -73,6 +73,7 @@ Resource | Description
 [SVG OMG](https://jakearchibald.github.io/svgomg/) | SVG editor.
 [Untools](https://untools.co/) | Tools for better thinking. A Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 [Get Terms](https://getterms.io/) | privacy terms.
+[UI8.NET](https://ui8.net/category/freebies) | Free Adobe XD Icon, UI Design etc.
 [Wave Apps](https://www.waveapps.com/) | Accounting and Invoicing.
 [Top Hunts Time Machine](https://timemachine.betamode.dev/) | Most voted hunt from every day since Product Hunt records began. 2442 top daily hunts and counting, since November 2013.
 
