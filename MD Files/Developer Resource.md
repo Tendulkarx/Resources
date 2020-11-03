@@ -44,6 +44,7 @@ Resource | Description
 Resource | Description
 -------- | ----------- 
 [Font Spark](https://fontspark.app/) | Font selection tool.
+[Font Joy](https://fontjoy.com/) | Font selection tool.
 
 
 #### Images & Video
