@@ -5,6 +5,12 @@
 |------------------------------------------|-----------------------------------------------------|
 | [Simple Icons](https://simpleicons.org/) | 2192 Free SVG open-source icons for popular brands. |
 
+#### Illustrations
+| Resource                                             | Description                          |
+|------------------------------------------------------|--------------------------------------|
+| [Free Illustrations](https://freeillustrations.xyz/) | Find free to use image illustrations |
+
+
 #### Alternative Applications
 | Resource                                                 | Description                                           |
 |----------------------------------------------------------|-------------------------------------------------------|
@@ -48,6 +54,8 @@
 #### Images & Video
 | Resource                              | Description                    |
 |---------------------------------------|--------------------------------|
+| [Burst](https://burst.shopify.com/)   | Stock images.                  |
+| [Unplash](https://unsplash.com/)      | Stock images.                  |
 | [Remove BG](https://www.remove.bg/)   | Remove background from images. |
 | [Unscreen](https://www.unscreen.com/) | Remove background from videos. |
 
