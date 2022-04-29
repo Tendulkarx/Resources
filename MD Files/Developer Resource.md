@@ -17,6 +17,13 @@
 | [Open-source alternatives](https://opensource.builders/) | Find open-source alternatives for your favorite apps. |
 
 #### Code presentation
+| Resource                             | Description                                                        |
+|--------------------------------------|--------------------------------------------------------------------|
+| [Flourish](https://flourish.studio/) | Beautiful and easy data visualization and storytelling             |
+| [Chart.js](https://www.chartjs.org/) | Simple yet flexible JavaScript charting for designers & developers |
+
+
+#### Charting & Data Presentation
 | Resource                        | Description                                            |
 |---------------------------------|--------------------------------------------------------|
 | [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code. |
