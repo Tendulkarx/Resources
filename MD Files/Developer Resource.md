@@ -1,9 +1,16 @@
 # Developer Resource
 
+
+#### Database Tools 
+| Resource                                            | Description                                     |
+|-----------------------------------------------------|-------------------------------------------------|
+| [Quick Database Diagrams](https://www.quickdatabasediagrams.com/) | Draw database diagrams by typing. |
+
 #### Icons
-| Resource                                 | Description                                         |
-|------------------------------------------|-----------------------------------------------------|
+| Resource                                 | Description                                        |
+|------------------------------------------|----------------------------------------------------|
 | [Simple Icons](https://simpleicons.org/) | 2192 Free SVG open-source icons for popular brands. |
+| [MacOS Icons](https://macosicons.com/#/) | Icons for mac appl.                                |
 
 #### Illustrations
 | Resource                                             | Description                          |
